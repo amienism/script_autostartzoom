@@ -1,0 +1,20 @@
+{
+  "name": "auto-on-zoom",
+  "version": "1.0.0",
+  "description": "Script for auto start zoom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.1",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.4",
+    "nodemon": "^2.0.20",
+    "request-promise": "^4.2.6"
+  }
+}
